@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.sun {
+    width: 100px;
+    height: 100px;
+    background-color: #f8dd26;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: sunrise 10s infinite;
+    box-shadow: 0 0 40px rgba(248, 221, 38, 0.7);
+}
+
+@keyframes sunrise {
+    0% {
+        width: 100px;
+        height: 100px;
+        background-color: #f8dd26;
+        box-shadow: 0 0 40px rgba(248, 221, 38, 0.7);
+    }
+    50% {
+        width: 200px;
+        height: 200px;
+        background-color: #ffca4e;
+        box-shadow: 0 0 80px rgba(255, 202, 78, 0.9);
+    }
+    100% {
+        width: 100px;
+        height: 100px;
+        background-color: #f8dd26;
+        box-shadow: 0 0 40px rgba(248, 221, 38, 0.7);
+    }
+}
