@@ -1,6 +1,6 @@
 # Sun Animation
 
-![Sun Animation](https://hadep275.github.io/SunAnimation/)
+[Sun Animation](https://hadep275.github.io/SunAnimation/)
 
 ## Description
 
