@@ -19,9 +19,6 @@ An animated sun with a sunrise and sunset effect created using HTML, CSS, and Ja
 
 To view the project, simply open the `index.html` file in your web browser.
 
-```bash
-open index.html ```
-
 ## How to Use
 
 The project is designed to be interactive. Click on the sun to pause and resume the sunrise/sunset animation. This feature adds an engaging element to the project, allowing users to control the animation.
@@ -44,7 +41,7 @@ These technologies work together to create the visually pleasing and interactive
 
 ## Author
 
-This project was developed by Your Name. If you have any questions or feedback, feel free to contact the author via their website or email.
+This project was developed by Your hadep275. If you have any questions or feedback, feel free to contact the author via their [website](https://hadep275.github.io/GitPortfolio/).
 
 ## License
 
